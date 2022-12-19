@@ -1,3 +1,4 @@
 # Jquinatoa_Portfolio
 
-[Video Data Sicence](https://www.youtube.com/watch?v=1aXk2RViq3c)
+
+![Data Analytics](https://user-images.githubusercontent.com/115854671/208501281-0af574de-217a-4116-8464-3b62079da37a.jpg)
