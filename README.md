@@ -1,2 +1,0 @@
-# Jquinatoa_Portfolio
-
